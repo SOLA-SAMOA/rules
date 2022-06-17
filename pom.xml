@@ -34,7 +34,7 @@
     </build>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <drools.version>5.1.1</drools.version>
+        <drools.version>7.60.0.Final</drools.version>
     </properties>
     <dependencies>
         <dependency>
